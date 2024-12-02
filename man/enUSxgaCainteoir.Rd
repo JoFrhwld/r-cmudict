@@ -4,13 +4,15 @@
 \name{enUSxgaCainteoir}
 \alias{enUSxgaCainteoir}
 \title{CMU Prouncing Dictionary}
-\format{a data frame with four variables:
+\format{
+a data frame with four variables:
  \describe{
   \item{word}{Word}
   \item{alt}{Alternate label}
   \item{pronounciation}{Pronunciation in ARPABET}
   \item{comment}{Comment}
-}}
+}
+}
 \usage{
 enUSxgaCainteoir
 }

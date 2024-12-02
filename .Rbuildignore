@@ -1,3 +1,7 @@
+^renv$
+^renv\.lock$
 data-raw
 README.rst
 LICENSE.template
+^.*\.Rproj$
+^\.Rproj\.user$

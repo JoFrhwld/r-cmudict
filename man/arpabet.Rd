@@ -4,12 +4,14 @@
 \name{arpabet}
 \alias{arpabet}
 \title{arpabet mappings}
-\format{a data frame with three variables:
+\format{
+a data frame with three variables:
  \describe{
   \item{arpabet}{ARPABET symbol}
   \item{ipa}{IPA symbol}
   \item{xsampa}{X-SAMPA symbol}
-}}
+}
+}
 \usage{
 arpabet
 }
